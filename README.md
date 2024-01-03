@@ -1,7 +1,5 @@
 # Image-Compression-with-Haar-DWT
-Description: This program compresses an image by using the 2D Discrete Wavelet Transform (with Haar wavelets).
-
-Demonstration: For a demo, execute the python file 'run.py'
+For a demonstration, execute the python file 'run.py'
 - Libraries: NumPy, PIL, Matplotlib
 - Run time ~ 2 sec
 - Compression: You may vary the scale (of compression) on line 311. Default is 1
